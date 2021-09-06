@@ -218,7 +218,9 @@ function doWhile(numero) {
   let i = 0
   do{
     i++
+    
     numero = numero +5
+
   }while (i < 8)
   
   return numero
