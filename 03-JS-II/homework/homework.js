@@ -217,8 +217,9 @@ function doWhile(numero) {
   //Usar el bucle do ... while.
   let i = 0
   do{
-    i++
     
+    i++
+
     numero = numero +5
 
   }while (i < 8)
